@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_200">#81D4FA</color>
+    <color name="deep_purple_200">#B39DDB</color>
+    <color name="cyan_A200">#18FFFF</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="lavender">#8692f7</color>
+    <color name="yellow_600">#FDD835</color>
+    <color name="pink_300">#F06292</color>
+    <color name="greenA400">#76FF03</color>
+    <color name="light_brown_200">#EFDCD5</color>
+
+
+
+</resources>
