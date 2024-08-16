@@ -29,11 +29,11 @@
 
 ### Login:
 
-<img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="600" height="800">
+<img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="400" height="600">
 
 ### Manage Your Expenses:
 
-<img src="https://github.com/user-attachments/assets/e312ced0-5514-4608-8c06-2822f2414d47" alt="expnses_spend_wise" width="600">
+<img src="https://github.com/user-attachments/assets/e312ced0-5514-4608-8c06-2822f2414d47" alt="expnses_spend_wise" width="400" height="600">
 
 
 
