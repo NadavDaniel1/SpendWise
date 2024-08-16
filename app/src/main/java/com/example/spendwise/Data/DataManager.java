@@ -1,17 +1,11 @@
 package com.example.spendwise.Data;
 
-import android.app.AlertDialog;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
-import android.widget.GridView;
-import android.widget.ImageView;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.example.spendwise.Model.Transaction;
 import com.example.spendwise.R;
 
 public class DataManager {

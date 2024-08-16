@@ -15,6 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="40dp"
+        android:layout_alignParentRight="true"
         android:backgroundTint="@color/lavender"
         android:clickable="true"
         android:src="@drawable/baseline_close_24" />

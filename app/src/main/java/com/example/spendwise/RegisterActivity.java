@@ -113,6 +113,7 @@ public class RegisterActivity extends AppCompatActivity {
 
     private void insertRegisterDataToDB() {
         String id = FirebaseAuth.getInstance().getUid();
+        if(id != null)
         registerDatabase = FirebaseDatabase.getInstance().getReference().child("SpendWise").child(id);
     }
 

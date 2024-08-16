@@ -101,8 +101,7 @@ public class UploadActivity extends AppCompatActivity {
     }
 
     private void updateTheBudget(double newAmount) {
-        double transactionAmount = newAmount;
-        double remainingBudget = budgetViewModel.calculateRemainingBudget(transactionAmount);
+        double remainingBudget = budgetViewModel.calculateRemainingBudget(newAmount);
         // Update the ViewModel's budget with the new value
         budgetViewModel.setMutableBudget(remainingBudget);
         budgetViewModel.setMutableExpense(newAmount);

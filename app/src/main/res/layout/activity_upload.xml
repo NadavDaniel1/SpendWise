@@ -12,7 +12,7 @@
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/upload_MCV_card"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginEnd="20dp"
         android:layout_marginStart="20dp"
@@ -41,7 +41,7 @@
                 android:id="@+id/upload_TXT_addNewTransaction"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Add New Transaction"
+                android:text="@string/add_new_transaction"
                 android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="@color/lavender"/>
@@ -61,7 +61,7 @@
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:padding="16dp"
-                android:hint="Enter transaction name"
+                android:hint="@string/enter_transaction_name"
                 android:gravity="start|center_vertical"
                 android:textColor="@color/lavender"/>
 
@@ -72,7 +72,7 @@
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:padding="16dp"
-                android:hint="Enter transaction amount"
+                android:hint="@string/enter_transaction_amount"
                 android:inputType="number"
                 android:gravity="start|center_vertical"
                 android:textColor="@color/lavender"/>
@@ -84,7 +84,7 @@
                 android:background="@drawable/lavender_border"
                 android:layout_marginTop="20dp"
                 android:padding="16dp"
-                android:hint="Enter transaction date: day/month/year"
+                android:hint="@string/enter_transaction_date_day_month_year"
                 android:gravity="start|center_vertical"
                 android:textColor="@color/lavender"
                 android:inputType="date" />
@@ -93,7 +93,7 @@
                 android:id="@+id/upload_BTN_save"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:text="Save"
+                android:text="@string/save"
                 android:textSize="25sp"
                 android:layout_marginTop="20dp"
                 app:cornerRadius="20dp"/>

@@ -9,7 +9,7 @@
     android:background="@drawable/bg_app"
     tools:context=".MainActivity">
 
-    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <FrameLayout
         android:id="@+id/main_FRAME_budget_manager"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -24,8 +24,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp">
 
@@ -33,7 +31,7 @@
             android:id="@+id/main_LBL_budget"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Budget: "
+            android:text="@string/budget"
             android:textSize="25sp"
             android:textStyle="bold"
             android:textColor="@color/black"></com.google.android.material.textview.MaterialTextView>
@@ -42,7 +40,7 @@
             android:id="@+id/main_LBL_price"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="0"
+            android:text="@string/initial_price"
             android:textStyle="italic|bold"
             android:textColor="@color/black"
             android:textSize="30sp" />
@@ -53,8 +51,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentBottom="true"
         android:layout_marginBottom="115dp"
 
         android:layout_marginLeft="10dp">
@@ -63,7 +59,7 @@
             android:id="@+id/main_LBL_expense"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Expenses: "
+            android:text="@string/expenses"
             android:textSize="25sp"
             android:textStyle="bold"
             android:textColor="@color/black"></com.google.android.material.textview.MaterialTextView>
@@ -72,7 +68,7 @@
             android:id="@+id/main_LBL_price_expense"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="0"
+            android:text="@string/initial_price"
             android:textStyle="italic|bold"
             android:textColor="@color/black"
             android:textSize="30sp" />
@@ -84,7 +80,7 @@
         android:id="@+id/main_BTN_setBudget"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SET BUDGET"
+        android:text="@string/set_budget"
         android:layout_marginRight="16dp"
         android:layout_marginTop="10dp"
         android:layout_alignParentRight="true"
@@ -104,7 +100,7 @@
         android:id="@+id/main_user_details"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="email-user"
+        android:text="@string/email_user"
         android:textStyle="bold"
         android:textSize="20sp"/>
 
@@ -112,7 +108,7 @@
         android:id="@+id/main_BTN_logout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LOGOUT"/>
+        android:text="@string/logout"/>
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView

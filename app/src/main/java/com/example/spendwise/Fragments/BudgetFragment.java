@@ -1,12 +1,10 @@
 package com.example.spendwise.Fragments;
 
-import static android.app.Activity.RESULT_OK;
+
 
 import android.content.Intent;
 import android.os.Bundle;
 
-import androidx.activity.OnBackPressedCallback;
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.widget.AppCompatEditText;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
@@ -16,9 +14,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.spendwise.Data.BudgetViewModel;
-import com.example.spendwise.Data.DataManager;
 import com.example.spendwise.MainActivity;
-import com.example.spendwise.Model.Transaction;
+
 import com.example.spendwise.R;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -29,7 +26,7 @@ public class BudgetFragment extends Fragment {
     AppCompatEditText budgetManager_EDIT_budget;
     MaterialButton budgetManager_BTN_save;
     private BudgetViewModel budgetViewModel;
-    private Integer budget = 0;
+
 
     public BudgetFragment() {
         // Required empty public constructor
