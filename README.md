@@ -30,12 +30,13 @@
 ### Login:
 
 <img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="400" height="600">   
-<img src="https://github.com/user-attachments/assets/b1583786-d82f-4d37-a156-fd09b037ce40" alt="set_budget_spend_wise" width="400" height="600"> 
+    <img src="https://github.com/user-attachments/assets/b1583786-d82f-4d37-a156-fd09b037ce40" alt="set_budget_spend_wise" width="400" height="600"> 
 
 
 ### Manage Your Expenses:
 
 <img src="https://github.com/user-attachments/assets/e312ced0-5514-4608-8c06-2822f2414d47" alt="expnses_spend_wise" width="400" height="600">
+   <img src="https://github.com/user-attachments/assets/39e6ebc8-89ca-46e3-9e63-45e3dd9f6e1b" alt="upload_spend_wise" width="400" height="600">
 
 
 
