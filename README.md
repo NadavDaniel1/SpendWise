@@ -16,11 +16,11 @@
 
 ### Login:
 
-![login_spend_wise](https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780bawidth=600)
+![login_spend_wise](https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780bawidth=200)
 
 ### Manage Your Expenses: 
 
-![expnses_spend_wise](https://github.com/user-attachments/assets/e312ced0-5514-4608-8c06-2822f2414d47=250width=600)
+![expnses_spend_wise](https://github.com/user-attachments/assets/e312ced0-5514-4608-8c06-2822f2414d47=250width=200)
 
 
 ## Installation
