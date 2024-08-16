@@ -3,26 +3,21 @@
 **SpendWise** is a budget management app that allows users to track their expenses, set budgets, and manage their finances efficiently. The app provides an intuitive interface and powerful features to help users stay on top of their spending.
 
 ## Technologies Used
-### Frontend
+
 **Java:** The primary programming language used to build the Android app.
 
 **XML:** Used for designing the UI layouts in Android.
 
 **Android Studio:** The integrated development environment (IDE) for Android app development.
 
-### Backend
 **Firebase Realtime Database:** For storing and syncing user data in real-time.
 
 **Firebase Authentication:** For managing user sign-in and authentication.
 
 **Firebase Storeage For Firebase** For saving each icon transaction
 
-### Other Tools and Libraries
-**RecyclerView:** For displaying a list of transactions in a more efficient way.
+**Glide Librarie:** For loading and caching images.
 
-**LiveData and ViewModel:** Used to manage UI-related data lifecycle consciously in the app.
-
-**Glide:** For loading and caching images.
 
 ## Features
 
@@ -50,23 +45,6 @@
 
 <img src="https://github.com/user-attachments/assets/e312ced0-5514-4608-8c06-2822f2414d47" alt="expnses_spend_wise" width="400" height="600">
    <img src="https://github.com/user-attachments/assets/39e6ebc8-89ca-46e3-9e63-45e3dd9f6e1b" alt="upload_spend_wise" width="400" height="600">
-
-
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/spendwise.git
-    ```
-
-2. Open the project in Android Studio.
-
-3. Set up Firebase:
-   - Add your `google-services.json` file to the `app` directory.
-   - Configure Firebase Authentication and Realtime Database in the Firebase Console.
-
-4. Build and run the app on an emulator or physical device.
 
 ## Usage
 
