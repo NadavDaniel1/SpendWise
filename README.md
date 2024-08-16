@@ -29,7 +29,7 @@
 
 ### Login:
 
-<img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="600">
+<img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="600" height=1200>
 
 ### Manage Your Expenses:
 
