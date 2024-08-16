@@ -33,6 +33,12 @@
 - 
 - **Fragments Navigation**: Navigate easily between different sections of the app, including the budget manager and transaction history.
 
+## Viedo Of SpendWise App:
+
+https://github.com/user-attachments/assets/6789b445-990b-433e-ab9b-21c38eaf8c0e
+
+
+
 ## Screenshots
 
 ### Login And Set Budget:
