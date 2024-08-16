@@ -5,24 +5,37 @@
 ## Technologies Used
 ### Frontend
 **Java:** The primary programming language used to build the Android app.
+
 **XML:** Used for designing the UI layouts in Android.
+
 **Android Studio:** The integrated development environment (IDE) for Android app development.
+
 ### Backend
 **Firebase Realtime Database:** For storing and syncing user data in real-time.
+
 **Firebase Authentication:** For managing user sign-in and authentication.
+
 **Firebase Storeage For Firebase** For saving each icon transaction
+
 ### Other Tools and Libraries
 **RecyclerView:** For displaying a list of transactions in a more efficient way.
+
 **LiveData and ViewModel:** Used to manage UI-related data lifecycle consciously in the app.
+
 **Glide:** For loading and caching images.
 
 ## Features
 
 - **User Authentication**: Secure login and registration using Firebase Authentication.
+- 
 - **Budget Management**: Set and track your budget with real-time updates.
+- 
 - **Expense Tracking**: Add, view, and manage your transactions with ease.
+- 
 - **Real-Time Sync**: Sync your data with Firebase, ensuring that your transactions and budget are always up to date.
+- 
 - **Responsive UI**: User-friendly interface with support for different screen sizes.
+- 
 - **Fragments Navigation**: Navigate easily between different sections of the app, including the budget manager and transaction history.
 
 ## Screenshots
@@ -58,9 +71,13 @@
 ## Usage
 
 1. **Login/Sign Up**: Users need to sign in or register with an email and password.
+
 2. **Set Budget**: Users can set their budget.
+
 3. **Add Transactions**: Users can add transactions to track their expenses.
+
 4. **View Transactions**: Users can view their transaction history in the app's main screen.
+
 5. **Logout**: Users can securely log out of the app.
 
 ## Challenges Faced
