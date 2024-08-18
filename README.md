@@ -6,7 +6,6 @@
 
 **Java:** The primary programming language used to build the Android app.
 
-**XML:** Used for designing the UI layouts in Android.
 
 **Android Studio:** The integrated development environment (IDE) for Android app development.
 
@@ -16,21 +15,21 @@
 
 **Firebase Storeage For Firebase** For saving each icon transaction
 
-**Glide Librarie:** For loading and caching images.
+**Glide library:** For loading and caching images.
 
 
 ## Features
 
 - **User Authentication**: Secure login and registration using Firebase Authentication.
-- 
+  
 - **Budget Management**: Set and track your budget with real-time updates.
-- 
+  
 - **Expense Tracking**: Add, view, and manage your transactions with ease.
-- 
+  
 - **Real-Time Sync**: Sync your data with Firebase, ensuring that your transactions and budget are always up to date.
-- 
+  
 - **Responsive UI**: User-friendly interface with support for different screen sizes.
-- 
+  
 - **Fragments Navigation**: Navigate easily between different sections of the app, including the budget manager and transaction history.
 
 ## Video Of SpendWise App:
@@ -47,14 +46,14 @@ https://github.com/user-attachments/assets/91cdd6e7-2a2c-4cc6-b6d4-00ecf1c2563a
 
 ### Login And Set Budget:
 
-<img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="400" height="600">   
-    <img src="https://github.com/user-attachments/assets/b1583786-d82f-4d37-a156-fd09b037ce40" alt="set_budget_spend_wise" width="400" height="600"> 
+<img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="300" height="600">   
+    <img src="https://github.com/user-attachments/assets/b1583786-d82f-4d37-a156-fd09b037ce40" alt="set_budget_spend_wise" width="300" height="600"> 
 
 
 ### Manage Your Expenses:
 
-<img src="https://github.com/user-attachments/assets/e312ced0-5514-4608-8c06-2822f2414d47" alt="expnses_spend_wise" width="400" height="600">
-   <img src="https://github.com/user-attachments/assets/39e6ebc8-89ca-46e3-9e63-45e3dd9f6e1b" alt="upload_spend_wise" width="400" height="600">
+<img src="https://github.com/user-attachments/assets/86eed1b4-7111-429e-b7c9-6cf4a8bd7cc3" alt="expnses_spend_wise" width="300" height="600">
+   <img src="https://github.com/user-attachments/assets/39e6ebc8-89ca-46e3-9e63-45e3dd9f6e1b" alt="upload_spend_wise" width="300" height="600">
 
 ## Usage
 
