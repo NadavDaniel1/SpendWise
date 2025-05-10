@@ -1,6 +1,6 @@
 # SpendWise
 As part of the mobile application development course at Afeka College Tel-Aviv, I built this app.
-**SpendWise** is android app allows users to track expenses, set budgets, and keep track of their finances through real-time syncing and a simple, intuitive user interface. 
+**SpendWise** is android app allows users to track expenses, set budgets, and keep track of their finances through real-time syncing and a simple, intuitive user interface.
 ן
 ## Technologies Used
 
