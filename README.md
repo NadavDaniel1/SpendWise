@@ -1,5 +1,5 @@
 # SpendWise
-As part of the mobile application development course at Afeka College Tel-Aviv, I built this app.
+Final project in the mobile application development course at Afeka College, Tel-Aviv.
 
 **SpendWise** is android app allows users to track expenses, set budgets, and keep track of their finances through real-time syncing and a simple, intuitive user interface.
 
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/91cdd6e7-2a2c-4cc6-b6d4-00ecf1c2563a
 
 ## Screenshots
 
-### Login And Set Budget:                                        | Manage Your Expenses:
+### Login And Set Budget | Manage Your Expenses:
 
 <img src="https://github.com/user-attachments/assets/94ede773-ff9a-4baa-a2f0-5624d8b780ba" alt="login_spend_wise" width="180" height="360">   
     <img src="https://github.com/user-attachments/assets/b1583786-d82f-4d37-a156-fd09b037ce40" alt="set_budget_spend_wise" width="180" height="360"> 
