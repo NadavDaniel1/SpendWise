@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/91cdd6e7-2a2c-4cc6-b6d4-00ecf1c2563a
 
 1. Register or log in via email
 
-2. Set your monthly budget
+2. Set your budget
 
 3. Add expenses with category and icon
 
