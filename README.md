@@ -45,13 +45,6 @@ https://github.com/user-attachments/assets/91cdd6e7-2a2c-4cc6-b6d4-00ecf1c2563a
   
 - **Real-Time Sync**: synchronize transactions and budgets with Firebase in real-time.
 
-## How to Use:
-
-1. Register or log in via email
-
-2. Set your budget
-
-3. Add expenses with category and icon
 
 4. View and manage transaction history
 
